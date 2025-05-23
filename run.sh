@@ -1,0 +1,2 @@
+docker run -p 15001:15001 -p 15002:15002 -p 15003:15003 -p 15004:15004 -p 15005:15005 -p 15006:15006 -p 15007:15007 -p \
+15008:15008 -p 15009:15009 -p 17001:17001 --hostname headnode --name pbs-headnode -it pbs-headnode
